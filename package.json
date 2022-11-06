@@ -1,6 +1,6 @@
 {
-  "name": "marko-cf-hono",
-  "description": "Marko and Hono on Cloudflare",
+  "name": "marko-deno-hono",
+  "description": "Marko and Hono on Deno",
   "version": "1.0.0",
   "devDependencies": {
     "@marko/compiler": "^5.17.6",
