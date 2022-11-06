@@ -14,7 +14,7 @@
     "vite": "^2.7.10"
   },
   "main": "dist/app.js",
-  "private": false,
+  "private": true,
   "scripts": {
     "build": "rimraf dist && npm run build:app && npm run build:client",
     "build:client": "cross-env NODE_ENV=production vite build",
